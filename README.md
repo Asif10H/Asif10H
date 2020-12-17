@@ -10,7 +10,6 @@ Skills: C++ / PYTHON / HTML / CSS
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on this page.
 - 🌱 I’m doing competitive programming regularly.
 - 🤔 I’m looking for help with jobs/intern.
 - 📫 How to reach me: Connect with me on [Facebook](https://facebook.com/asif10h) or [Linkedin](https://www.linkedin.com/in/habibullah-asif/) 
