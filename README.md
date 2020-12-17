@@ -11,8 +11,8 @@ Skills: C++ / PYTHON / HTML / CSS
 - 🌱 I'm currently learning Python and Competitive Programming.
 - 👯 I’m looking to collaborate on .. 
 - 🤔 I’m looking for help with . 
-- 💬 Ask me about .. 
-- 📫 How to reach me: .. 
+- 💬 Ask me about: [Asif10H](https://facebook.com/asif10h) or [habibullah_asif](https://twitter.com/habibullah_asif)  
+- 📫 How to reach me: 
 - ⚡ Fun fact: .. 
 
 
