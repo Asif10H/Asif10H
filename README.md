@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 
 ### :hugs: Thank You!
 
-Thank you so much for visiting my tiny space on [GitHub](https://github.com/asif10h)! :v:
+Thank you so much for visiting my tiny space on [GitHub](https://github.com/Asif10H?tab=repositories)! :v:
