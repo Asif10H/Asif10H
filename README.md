@@ -1,15 +1,16 @@
 ### My name is Habibullah Md.Asif. Currently, I'm doing some projects  and competitive programming.Also, I'm improving my development skills and learning tools and technologies.
 ####  
-![ ](https://github.com/Asif10H/Asif10H/blob/main/dev.jpg)
+ 
+<img align="right" alt="GIF" src="https://github.com/Asif10H/Asif10H/blob/main/dev.jpg" width="500" height="320" />
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
 Skills: C++ / PYTHON / HTML / CSS
 
 - 🔭 I’m currently working on  this page 
-- 🌱 I’m currently learning Python 
+- 🌱 I'm currently learning Python and Competitive Programming.
 - 👯 I’m looking to collaborate on .. 
-- 🤔 I’m looking for help with Competitive Programming. 
+- 🤔 I’m looking for help with . 
 - 💬 Ask me about .. 
 - 📫 How to reach me: .. 
 - ⚡ Fun fact: .. 
