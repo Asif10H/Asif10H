@@ -5,9 +5,8 @@
 
 <img align="right" alt="GIF" src="https://github.com/Asif10H/Asif10H/blob/main/dev1.png" width="500" height="320"/>
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills: C++ / PYTHON / HTML / CSS
+Skills: C++ / PYTHON / HTML / CSS / Bootstrap / React
 
 Here are some ideas to get you started:
 
