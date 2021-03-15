@@ -3,7 +3,7 @@
 ### My name is Habibullah Md.Asif. Currently, I'm doing some projects  and competitive programming.Also, I'm improving my development skills and learning tools and technologies.
 ####  
 
-<img align="right" alt="GIF" src="https://github.com/Asif10H/Asif10H/blob/main/dev1.png" width="500" height="320"/>
+<img align="right" alt="GIF" src="https://github.com/Asif10H/Asif10H/blob/main/dev1.png" width="0" height="320"/>
 
 
 Skills: C++ / PYTHON / HTML / CSS / Bootstrap / React
