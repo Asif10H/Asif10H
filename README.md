@@ -64,25 +64,25 @@
 
  ### 📊 GitHub Stats
 
-<!-- <div align="center">
+  <div align="center">
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asif10h&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asif10H&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Top Langs" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=asif10h&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Asif10H&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
 </a>
 
 <br/>
 
 <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=asif10h&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Asif10H&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Streak" />
 </a>
 
-</div> -->
+</div>  
 
-<div align="center">
+<!-- <div align="center">
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=asif10h&show_icons=true&theme=radical" alt="Asif's Stats" />
@@ -100,7 +100,7 @@
     <img src="https://streak-stats.demolab.com?user=asif10h&theme=radical" alt="Streak Stats" />
   </a>
 
-</div>
+</div> -->
 
 ---
 
