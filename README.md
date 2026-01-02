@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B+I'm+Asif;Passionate+JS+Developer;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B+I'm+Asif;MERN+Stack+Developer;Next.js+%26+React+Enthusiast+%E2%9A%9B%EF%B8%8F" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -81,18 +81,54 @@
 
 ---
 
-### 🤝 Connect with me
+### 🏆 Competitive Programming & Problem Solving
+
+<div align="center">
+  <a href="https://codeforces.com/profile/asif10h">
+    <img src="https://img.shields.io/badge/Codeforces-asif10h-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/asif10h">
+    <img src="https://img.shields.io/badge/LeetCode-asif10h-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://www.codechef.com/users/asif10h">
+    <img src="https://img.shields.io/badge/CodeChef-asif10h-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/asif10h">
+    <img src="https://img.shields.io/badge/HackerRank-asif10h-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://atcoder.jp/users/asif10h">
+    <img src="https://img.shields.io/badge/AtCoder-asif10h-000000?style=for-the-badge&logo=atcoder&logoColor=white" />
+  </a>
+  <a href="https://www.hackerearth.com/@asif10h">
+    <img src="https://img.shields.io/badge/HackerEarth-asif10h-2C3454?style=for-the-badge&logo=hackerearth&logoColor=white" />
+  </a>
+  <a href="https://www.topcoder.com/members/asif10h">
+    <img src="https://img.shields.io/badge/TopCoder-asif10h-292929?style=for-the-badge&logo=topcoder&logoColor=white" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://lightoj.com/user/asif10h">
+    <img src="https://img.shields.io/badge/LightOJ-asif10h-0056D2?style=for-the-badge&logo=lighthouse&logoColor=white" />
+  </a>
+  <a href="https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_author&username=asif10h">
+    <img src="https://img.shields.io/badge/UVa_Judge-asif10h-8B0000?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  </a>
+</div>
+
+---
+ ### 🤝 Connect with me
 
 <div align="center">
   <a href="https://github.com/Asif10H" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Asif10H" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/habibullah-asif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="habibullah-asif" height="30" width="40" /></a>
   <a href="https://twitter.com/habibullah_asif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="habibullah_asif" height="30" width="40" /></a>
   <a href="https://fb.com/asif10h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="asif10h" height="30" width="40" /></a>
-  <a href="https://instagram.com/habibullah-asif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="habibullah-asif" height="30" width="40" /></a>
-  <a href="https://codeforces.com/profile/asif10h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="asif10h" height="30" width="40" /></a>
-  <a href="https://leetcode.com/asif10h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="asif10h" height="30" width="40" /></a>
-  <a href="https://codechef.com/users/asif10h" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codechef.svg" alt="asif10h" height="30" width="40" /></a>
-  <a href="https://hackerrank.com/asif10h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="asif10h" height="30" width="40" /></a>
+  <a href="https://instagram.com/habibullah_asif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="habibullah-asif" height="30" width="40" /></a>
+  <br/>   <br/>
   <a href="https://stackoverflow.com/users/asif10h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="asif10h" height="30" width="40" /></a>
   <a href="https://kaggle.com/asif10h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="asif10h" height="30" width="40" /></a>
   <a href="https://codepen.io/asif10h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="asif10h" height="30" width="40" /></a>
@@ -117,4 +153,7 @@
 
 <!-- <div align="center">
   <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" />
-</div> -->
+</div> --> 
+
+
+
