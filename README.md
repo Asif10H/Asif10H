@@ -19,14 +19,14 @@
 ### 👨‍💻 About Me
 
 - 🌍  I'm based in **Bangladesh**
-- 🖥️  See my portfolio at [**habibullah-asif.netlify.app**](http://habibullah-asif.netlify.app/)
+- 🖥️  See my portfolio at [**habibullahasif.vercel.app**](https://habibullahasif.vercel.app/)
 - ✉️  **Reach me:** [Facebook](https://facebook.com/asif10h) | [Linkedin](https://www.linkedin.com/in/habibullah-asif/) | [Email](mailto:habibullahasif71@gmail.com)
 - 🧠  I'm currently learning **Next.js**
 - 👥  I'm looking to collaborate on **React.js & Next.js** projects
 - 💬  **Fun fact:** I'm not boring at all! 😄
 
 <p align="left">
-  <a href="https://habibullah-asif.netlify.app/" target="_blank">
+  <a href="https://habibullahasif.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="YOUR_RESUME_LINK_HERE" target="_blank">
