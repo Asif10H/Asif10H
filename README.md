@@ -22,7 +22,6 @@
 - ✉️  **Reach me:** [Facebook](https://facebook.com/asif10h) | [Linkedin](https://www.linkedin.com/in/habibullah-asif/) | [Email](mailto:habibullahasif71@gmail.com)
 - 🧠  I'm currently learning **Next.js**
 - 👥  I'm looking to collaborate on **React.js & Next.js** projects
-- 💬  **Fun fact:** I'm not boring at all! 😄
 
 <p align="left">
   <a href="https://habibullahasif.vercel.app/" target="_blank">
