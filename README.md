@@ -18,7 +18,6 @@
 
 ### 👨‍💻 About Me
 
-- 🌍  I'm based in **Bangladesh**
 - 🖥️  See my portfolio at [**habibullahasif.vercel.app**](https://habibullahasif.vercel.app/)
 - ✉️  **Reach me:** [Facebook](https://facebook.com/asif10h) | [Linkedin](https://www.linkedin.com/in/habibullah-asif/) | [Email](mailto:habibullahasif71@gmail.com)
 - 🧠  I'm currently learning **Next.js**
